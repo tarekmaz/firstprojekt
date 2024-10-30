@@ -3,5 +3,6 @@ public class d1{
         System.out.println("Hallo");
         System.out.println("world");
         System.out.println("world");
+        System.out.println("Tarek");
     }
 }
